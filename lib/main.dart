@@ -1,5 +1,5 @@
 import 'package:coffee_firebase_demo/models/user.dart';
-import 'package:coffee_firebase_demo/wrapper.dart';
+import 'package:coffee_firebase_demo/screens/wrapper.dart';
 import 'package:coffee_firebase_demo/services/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
