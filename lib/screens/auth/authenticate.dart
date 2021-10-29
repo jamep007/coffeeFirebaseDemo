@@ -1,5 +1,5 @@
-import 'package:coffee_firebase_demo/auth/register.dart';
-import 'package:coffee_firebase_demo/auth/signin.dart';
+import 'package:coffee_firebase_demo/screens/auth/register.dart';
+import 'package:coffee_firebase_demo/screens/auth/signin.dart';
 import 'package:flutter/material.dart';
 
 class Authenticate extends StatefulWidget {

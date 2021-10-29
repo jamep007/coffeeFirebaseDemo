@@ -1,10 +1,10 @@
-import 'package:coffee_firebase_demo/home/settings_form.dart';
+import 'package:coffee_firebase_demo/screens/home/settings_form.dart';
 import 'package:coffee_firebase_demo/models/brew.dart';
 import 'package:coffee_firebase_demo/services/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:coffee_firebase_demo/services/database.dart';
 import 'package:provider/provider.dart';
-import 'package:coffee_firebase_demo/home/brew_list.dart';
+import 'package:coffee_firebase_demo/screens/home/brew_list.dart';
 
 class Home extends StatelessWidget {
   final AuthService _auth = AuthService();
